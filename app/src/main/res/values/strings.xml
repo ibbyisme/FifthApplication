@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FifthApplication</string>
+    <string name="send">send</string>
+    <string name="接收信息">接收信息</string>
+</resources>
